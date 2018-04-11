@@ -1,6 +1,6 @@
 # One Cache
 
-> Server and client cache-first mechanism for avoiding API limits.
+> Isomorphic caching for network calls
 
 - You're developing against an API
 - You don't want to be rate-limited 
