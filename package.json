@@ -1,0 +1,17 @@
+{
+  "name": "one-cache",
+  "version": "1.0.0",
+  "description": "Isomorphic caching for network calls",
+  "main": "index.js",
+  "repository": "git@github.com:chrisisler/one-cache",
+  "author": "chrisisler <christopherisler1@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "cache",
+    "node",
+    "browser",
+    "isomorphic",
+    "storage"
+  ],
+  "files": "index.js"
+}
